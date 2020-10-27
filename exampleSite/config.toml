@@ -61,7 +61,7 @@ url = "https://themefisher.com/"
 weight = 8
 [params]
 author = "Santiago Llera"
-description = "Responsive Multipurpose Parallax Hugo Template"
+description = "Tienda online de espejos para maquillaje"
 google_analytics_id = ""
 logo = "images/logo.png"
 post_share = true
