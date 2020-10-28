@@ -4,9 +4,8 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/banner.jpg
   icon: ''
-  title: ''
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: Espejos de Maquillaje
+  content: Hechos a mano y la mejor calidad
   button:
     enable: true
     label: Ver modelos
